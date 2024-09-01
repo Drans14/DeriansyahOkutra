@@ -3,6 +3,8 @@ Nama : M. Deriansyah Okutra\
 NIM : 122450101\
 Kelas : RB
 
+# Review dan Resume dari Jurnal yang Berjudul : "Making data visualization more efficient and effective: a survey"
+
 # Pendahuluan
 Visualisasi data dapat mengubah data abstrak menjadi bentuk visual seperti panjang, posisi, bentuk, warna, dan sebagainya, ini adalah cara yang efektif untuk menyajikan cerita data kepada manusia yang lebih berorientasi visual. Visualisasi data adalah cara yang alami untuk memberikan gambaran umum tentang data besar dan memudahkan interpretasi hasil analitik data bagi para ilmuan data. Visualisasi data juga digunakan secara luas dalam berbagai aplikasi terkait basis data, seperti Excel, Google Sheets, dan lain sebagainya.
 
